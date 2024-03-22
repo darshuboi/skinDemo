@@ -1,0 +1,9 @@
+﻿<asp:Label runat="server" BackColor="#66FF33"></asp:Label>
+<asp:TextBox runat="server" SkinID="Yellow" BackColor="Yellow" BorderColor="Aqua" BorderStyle="Double" BorderWidth="5px"></asp:TextBox>
+<asp:TextBox runat="server" BackColor="Yellow" BorderColor="Aqua" BorderStyle="Double" BorderWidth="5px"></asp:TextBox>
+
+<asp:Label runat="server" SkinID="Blue" BackColor="#00F033"></asp:Label>
+<asp:TextBox runat="server" SkinID="Blue" BackColor="Blue" BorderColor="Aqua" BorderStyle="Double" BorderWidth="5px"></asp:TextBox>
+<asp:FileUpload runat="server" BackColor="#337044" />
+
+<asp:Button runat="server" BackColor="#0099FF" BorderColor="#33CC33" BorderStyle="Groove" BorderWidth="5px" Text="Button" />
